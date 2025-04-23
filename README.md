@@ -17,6 +17,17 @@ Eu gosto de, no meu tempo livre
 🎶 Ouvir músicas – um som pesado pra manter o ritmo!
 🎮 Jogar jogos variados – pode mandar qualquer desafio que eu encaro!
 
+
+
+
+https://github.com/Niker10antos/Niker10antos/issues/1#issue-3015476179
+
+
+
+
+
+
+
 Eu já trabalhei com...
 Tecnologias e Ferramentas
 
@@ -28,4 +39,5 @@ Fundamentos de Engenharia da Computação
 Programação para Engenheiros
 
 
-Devil Never Cry 😈Engatilhando bala, bala, balaO meu alvo tá na mira!Quem que imaginavaQue demônios chorariam?(Inspirado por M4rkim) 🎤
+Devil Never Cry 😈
+Engatilhando bala, bala, balaO meu alvo tá na mira!Quem que imaginavaQue demônios chorariam?(Inspirado por M4rkim) 🎤
