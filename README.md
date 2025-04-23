@@ -1,16 +1,31 @@
-## Hi there 👋
+Yo, eu sou o Lineker Pires, prazer em conhecê-lo! 😎🔥
+Sobre mim
 
-<!--
-**Niker10antos/Niker10antos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Eu sou um desenvolvedor em formação e estudante de Engenharia da Computação, pronto pra detonar nesse mundo tech!
+🎓 Tenho 21 anos e tô mandando ver na graduação.
+🏫 Estudo na [nome da sua faculdade, se desejar incluir].
 
-Here are some ideas to get you started:
+Também sou curioso sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvimento de software e tecnologias emergentes – quero dominar isso tudo!
+📚 Aprofundar meus conhecimentos em algoritmos, sistemas e inovação tecnológica, porque o futuro não espera.
+
+Eu gosto de, no meu tempo livre
+
+💻 Programar projetos pessoais e contribuir pra comunidade open-source – é assim que eu me divirto!
+📖 Explorar novos livros e artigos sobre tecnologia.
+🎶 Ouvir músicas – um som pesado pra manter o ritmo!
+🎮 Jogar jogos variados – pode mandar qualquer desafio que eu encaro!
+
+Eu já trabalhei com...
+Tecnologias e Ferramentas
+
+Eu estou estudando...
+
+Cursos realizados 🎓
+
+Fundamentos de Engenharia da Computação  
+Programação para Engenheiros
+
+
+Devil Never Cry 😈Engatilhando bala, bala, balaO meu alvo tá na mira!Quem que imaginavaQue demônios chorariam?(Inspirado por M4rkim) 🎤
