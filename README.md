@@ -4,6 +4,36 @@ Yo, eu sou o Lineker Pires, prazer em conhecê-lo! 😎🔥
 ![Dante](https://cdn.discordapp.com/attachments/7849372184885889/1264755150136146/dante.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sobre mim
 
 🖥️ Eu sou um desenvolvedor em formação e estudante de Engenharia da Computação, pronto pra detonar nesse mundo tech!
