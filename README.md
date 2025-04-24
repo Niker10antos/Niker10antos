@@ -1,7 +1,7 @@
 Yo, eu sou o Lineker Pires, prazer em conhecê-lo! 😎🔥
 
   
-https://cdn.discordapp.com/attachments/784593728164855859/1364755515103514685/dante.png?ex=680ad31e&is=6809819e&hm=5340b1493a42f3654dacfe6d7b6595d1b8a6a3ced8c52d7f1ddf971f578ced17&
+![Dante](https://cdn.discordapp.com/attachments/784593728164855859/1364755515103514685/dante.png?ex=680ad31e&is=6809819e&hm=5340b1493a42f3654dacfe6d7b6595d1b8a6a3ced8c52d7f1ddf971f578ced17&)
 
 
 Sobre mim
