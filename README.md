@@ -1,7 +1,7 @@
 Yo, eu sou o Lineker Pires, prazer em conhecê-lo! 😎🔥
 
   
-
+https://github.com/Niker10antos/Niker10antos/raw/main/assets/dante.png
 
 
 Sobre mim
